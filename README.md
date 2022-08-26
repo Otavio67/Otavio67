@@ -5,8 +5,8 @@
 - 😊 Discord: Panda.#7724.
 <div align="center">
   <a href="https://github.com/Otavio67">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio67&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio67&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Otavio67&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio67&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
   
