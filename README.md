@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudando Front-End, Back-End e Mobile;
 - 🌱 HTML, CSS, Javascript, ReactJS, React Native;
-- 😊 Discord: Panda.#7724.
+
 <div align="center">
   <a href="https://github.com/Otavio67">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Otavio67&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
