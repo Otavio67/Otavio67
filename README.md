@@ -1,6 +1,6 @@
 ### Oi! Bem Vindo 👋
 
-- 🔭 Atualmente estudando Front-End, Back-End e Mobile;
+- 🔭 Front-End, Back-End e Mobile;
 - 🌱 HTML, CSS, Javascript, ReactJS, React Native;
 
 <div align="center">
