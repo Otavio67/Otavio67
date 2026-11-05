@@ -1,22 +1,26 @@
-### Oi! Bem Vindo 👋
+<p align="center">
+  <img src="assets/profile-banner.gif" alt="Otávio Milanez — web, jogos e inteligência artificial" width="100%">
+</p>
 
-- 🔭 Front-End, Back-End e Mobile;
-- 🌱 HTML, CSS, Javascript, ReactJS, React Native;
+## Olá, eu sou o Otávio 👋
 
-<div align="center">
-  <a href="https://github.com/Otavio67">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Otavio67&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio67&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+Gosto de transformar ideias em projetos digitais, explorando desenvolvimento web, jogos e inteligência artificial. Por aqui você encontra projetos acadêmicos, experimentos e aplicações em evolução.
 
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/otaviomilanez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ota.milanez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/otávio-augusto-377384237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   ![Snake animation](https://github.com/Otavio67/Otavio67/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### 🛠️ Tecnologias que aparecem nos meus projetos
+
+**Web e aplicativos:** HTML, CSS, JavaScript, React, React Native, Python, Flask e Django  
+**Jogos:** Unity e C#  
+**Dados e IA:** Python, Jupyter, scikit-learn e YOLOv8
+
+### 🚀 Projetos em destaque
+
+- [**AuditaLGPD**](https://github.com/Otavio67/AuditaLGPD) — aplicação web para diagnóstico técnico preliminar de sinais de privacidade em páginas públicas.
+- [**Dig & Wonder**](https://github.com/Otavio67/dig-and-wonder) — jogo 2D para Android, em desenvolvimento com Unity, sobre exploração subterrânea e combate automático.
+- [**YOLO Academia**](https://github.com/Otavio67/yolo-academia) — projeto acadêmico de visão computacional para detectar equipamentos de musculação em vídeo.
+- [**Brotinho Valley**](https://github.com/Otavio67/brotinho-valley) — projeto de jogo de fazenda para dispositivos móveis, feito em Unity.
+
+### 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D5BA6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-augusto-377384237/)
+[![Instagram](https://img.shields.io/badge/Instagram-6D5BA6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviomilanez/)
+[![E-mail](https://img.shields.io/badge/E--mail-6D5BA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ota.milanez@gmail.com)
