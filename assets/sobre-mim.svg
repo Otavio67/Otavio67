@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Oi! Eu sou o Otávio</title>
+  <desc id="descricao">Curto tecnologia e gosto de criar projetos para web e jogos. Por aqui compartilho o que venho desenvolvendo e aprendendo, incluindo alguns trabalhos da faculdade.</desc>
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#35165b"/>
+      <stop offset="0.62" stop-color="#251146"/>
+      <stop offset="1" stop-color="#15132e"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1098" height="228" rx="22" fill="url(#fundo)" stroke="#7955aa" stroke-width="2"/>
+  <circle cx="1024" cy="48" r="100" fill="#8760c7" opacity=".08"/>
+  <circle cx="1039" cy="54" r="73" fill="none" stroke="#b596ec" opacity=".18"/>
+  <circle cx="1039" cy="54" r="49" fill="none" stroke="#b596ec" opacity=".18"/>
+  <path d="M945 155h40m-20-20v40" stroke="#bba0e7" stroke-width="7" stroke-linecap="round" opacity=".55"/>
+  <circle cx="1025" cy="148" r="5" fill="#8fe3d1"/>
+  <circle cx="1045" cy="163" r="5" fill="#d2a5fa"/>
+  <circle cx="1008" cy="179" r="3" fill="#c09de7"/>
+  <rect x="45" y="39" width="5" height="41" rx="2.5" fill="#8fe3d1"/>
+  <text x="68" y="72" fill="#fcf9ff" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Oi! Eu sou o Otávio</text>
+  <text x="68" y="126" fill="#eee7f9" font-family="Segoe UI, Arial, sans-serif" font-size="24">Curto tecnologia e gosto de criar projetos para web e jogos.</text>
+  <text x="68" y="165" fill="#eee7f9" font-family="Segoe UI, Arial, sans-serif" font-size="24">Por aqui compartilho o que venho desenvolvendo e aprendendo,</text>
+  <text x="68" y="199" fill="#eee7f9" font-family="Segoe UI, Arial, sans-serif" font-size="24">incluindo alguns trabalhos da faculdade.</text>
+</svg>
+
