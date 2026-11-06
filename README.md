@@ -2,9 +2,9 @@
   <img src="assets/profile-banner.gif" alt="Otávio Milanez — web, jogos e inteligência artificial" width="100%">
 </p>
 
-## Oi! Eu sou o Otávio 👋
-
-Curto tecnologia e gosto de criar projetos para web e jogos. Por aqui compartilho o que venho desenvolvendo e aprendendo, incluindo alguns trabalhos da faculdade.
+<p align="center">
+  <img src="assets/sobre-mim.svg" alt="Oi! Eu sou o Otávio. Curto tecnologia e gosto de criar projetos para web e jogos. Por aqui compartilho o que venho desenvolvendo e aprendendo, incluindo alguns trabalhos da faculdade." width="100%">
+</p>
 
 ### 🛠️ Tecnologias que uso nos projetos
 
